@@ -33,8 +33,8 @@ The designs were created to the following widths:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/nurme-ave/frontend-mentor-ch1-stats-preview-card-component)
+- Live Site URL: [GitHub Pages](https://nurme-ave.github.io/frontend-mentor-ch1-stats-preview-card-component/)
 
 ## My process
 
