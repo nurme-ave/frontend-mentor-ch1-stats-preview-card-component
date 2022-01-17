@@ -195,13 +195,17 @@ body {
   .card-main-text {
     width: 374px;
     height: 75px;
-    margin: 26px 109px 0 87px;
+    margin: 26px 109px 0 55px;
     text-align: left;
   }
 
   .card-footer {
     flex-direction: row;
     margin-top: 0;
+  }
+
+  .card-footer-stats {
+    margin-bottom: 4px;
   }
   
   .card-footer-10k,
