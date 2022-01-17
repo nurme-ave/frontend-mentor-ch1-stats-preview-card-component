@@ -205,7 +205,7 @@ body {
   }
 
   .card-footer-stats {
-    margin-bottom: 6px;
+    margin-bottom: 8px;
   }
   
   .card-footer-10k,
@@ -216,17 +216,17 @@ body {
 
   .card-footer-10k {
     width: 83px;
-    margin: 71px 63px 59px 72px;
+    margin: 71px 63px 50px 72px;
   }
 
   .card-footer-314 {
     width: 79px;
-    margin: 71px 60px 59px 0;
+    margin: 71px 60px 50px 0;
   }
 
   .card-footer-12M {
     width: 66px;
-    margin: 71px 147px 59px 0;
+    margin: 71px 147px 50px 0;
   }
 
   .card-image-desktop {
